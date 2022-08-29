@@ -1,8 +1,6 @@
-# Rust Smart Contract Template
-
+# introduction
+A hotel management system that assist customers to order and pay for their meals at their own convinience
 ## Getting started
-
-To get started with this template:
 
 1. Click the "Use this template" button to create a new repo based on this template
 2. Update line 2 of `Cargo.toml` with your project name
